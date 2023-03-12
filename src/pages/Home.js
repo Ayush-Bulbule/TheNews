@@ -26,6 +26,12 @@ const Home = () => {
         }
     }
 
+    useEffect(() => {
+      fetchNews();
+    
+    }, [])
+    
+
     return (
         error? <Text textAlign={'center'} my={'auto'}>505 | Something went wrong</Text>:
         <>
