@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ayush-Bulbule/TheNews">
-    <img width="600" src="newsApp.gif" alt="Logo" height="338">
+    <img width="700" src="newsApp.gif" alt="Logo" height="394">
   </a>
 
   <h3 align="center">The News - News App with React</h3>
