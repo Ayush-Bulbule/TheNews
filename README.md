@@ -6,7 +6,7 @@
   <h3 align="center">The News - News App with React</h3>
   <br/>
   <a href="https://github.com/Ayush-Bulbule/TheNews">
-    <img width="800" src="newsApp.gif" alt="Logo" height="450">
+    <img width="800" src="newsApp.gif" alt="Logo" height="auto">
   </a>
 
   <p align="center">
