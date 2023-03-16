@@ -24,11 +24,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <h3 align="center">The News - News App with React</h3>
   <a href="https://github.com/Ayush-Bulbule/TheNews">
     <img width="800" src="newsApp.gif" alt="Logo" height="450">
   </a>
-
-  <h3 align="center">The News - News App with React</h3>
 
   <p align="center">
     An awesome news app built with react js and chakra ui!
