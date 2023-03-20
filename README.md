@@ -71,3 +71,4 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<b>Note:</b>The App will work locally only as it is using `NewsAPI.org's Api` they have stooped other than local calls for free plans.
